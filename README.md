@@ -6,7 +6,7 @@ This README summarizes the UCSF Ideathon Nov 2025 project proposal (**PolyMetrix
 
 📄 **[Full proposal document](https://docs.google.com/document/d/1lz2C6WVteETNqes0bKrquDn-iVSLxOyCGN7E9AiRMxg/edit?usp=sharing)**
 
-🔧 **[Technical details](https://github.com/Broccolito/PolyMetrixHealth/technical_details.md)**
+🔧 **[Technical details](https://github.com/Broccolito/PolyMetrixHealth/blob/main/technical_details.md)**
 
 The project introduces a federated learning platform designed to conduct simulated clinical trials for GLP-1 receptor agonists (e.g., Ozempic). The goal is to enable large-scale, privacy-preserving research across diverse healthcare institutions without centralizing raw patient data.
 
